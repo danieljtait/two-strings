@@ -1,0 +1,7 @@
+
+
+
+
+
+
+Kubo = simpleKuboOscillator3(1.5, 0., kOU, kpar)

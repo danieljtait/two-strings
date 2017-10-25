@@ -1,0 +1,4 @@
+import numpy as np
+
+I = np.diag(np.ones(2))
+A = np.array([[0., 1.], [-1., 0.]])
